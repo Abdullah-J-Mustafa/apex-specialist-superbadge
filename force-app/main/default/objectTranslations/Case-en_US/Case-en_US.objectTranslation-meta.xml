@@ -8,5 +8,17 @@
         <plural>true</plural>
         <value>Maintenance Request</value>
     </caseValues>
+    <quickActions>
+        <label></label>
+        <name>LogACall</name>
+    </quickActions>
+    <quickActions>
+        <label></label>
+        <name>NewChildCase</name>
+    </quickActions>
     <startsWith>Consonant</startsWith>
+    <webLinks>
+        <label></label>
+        <name>UpsellCrosssellOpportunity</name>
+    </webLinks>
 </CustomObjectTranslation>
